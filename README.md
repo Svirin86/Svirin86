@@ -16,3 +16,7 @@
 
 ## 📊 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svirin86&show_icons=true&theme=radical)
+
+## 📬 Contact
+- 📧 Email: [86Svirin13@gmail.com](mailto:86Svirin13@gmail.com)
+- 🐦 Twitter: [@Oleksandr8621](https://x.com/Oleksandr8621)
