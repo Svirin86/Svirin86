@@ -1,7 +1,11 @@
 <div align="center">
   <h1>👋 Hello, I'm BearWolf!</h1>
   <p>Planq Network Validator | Blockchain Developer</p>
-  <p>🔗 <a href="https://explorer.planq.network/validators/plqvaloper1udap37p6q7actrrfgl8m5yq53ghaea4v35z384">My Validator</a> | <a href="mailto:86Svirin13@gmail.com">Email</a> | <a href="https://x.com/Oleksandr8621">Twitter</a></p>
+  <p>
+    <a href="https://explorer.planq.network/validators/plqvaloper1udap37p6q7actrrfgl8m5yq53ghaea4v35z384">🔗 My Validator</a> | 
+    <a href="mailto:86Svirin13@gmail.com">📧 Email</a> | 
+    <a href="https://x.com/Oleksandr8621">🐦 Twitter</a>
+  </p>
   <img src="https://img.shields.io/badge/Planq-Validator-green" alt="Planq Validator">
 </div>
 
